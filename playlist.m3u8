@@ -1,0 +1,328 @@
+#EXTM3U
+#EXTINF:0, tvg-id="1" tvg-name="CANAL+ Premium" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-hd-1/ch-canal-hd-1282.png" group-title="G", CANAL+ Premium
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+Premium&moviescount=0&url=canal-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-hd-1%2Fch-canal-hd-1282.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="2" tvg-name="CANAL+ 1 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-1/ch-canal-1258.png" group-title="G", CANAL+ 1 HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+1+HD&moviescount=0&url=canal-1&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-1%2Fch-canal-1258.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="3" tvg-name="CANAL+ FILM HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-film-hd/ch-canal-film-hd-1257.png" group-title="G", CANAL+ FILM HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+FILM+HD&moviescount=0&url=canal-film-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-film-hd%2Fch-canal-film-hd-1257.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="4" tvg-name="CANAL+ SERIALE HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-seriale/ch-canal-seriale-1265.png" group-title="G", CANAL+ SERIALE HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+SERIALE+HD&moviescount=0&url=canal-seriale&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-seriale%2Fch-canal-seriale-1265.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="5" tvg-name="CANAL+ FAMILY HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-family-hd/ch-canal-family-hd-1258.png" group-title="G", CANAL+ FAMILY HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+FAMILY+HD&moviescount=0&url=canal-family-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-family-hd%2Fch-canal-family-hd-1258.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="6" tvg-name="CANAL+ DOKUMENT HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-discovery/ch-canal-discovery-1259.png" group-title="G", CANAL+ DOKUMENT HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+DOKUMENT+HD&moviescount=0&url=canal-discovery&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-discovery%2Fch-canal-discovery-1259.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="7" tvg-name="CANAL+ SPORT HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-sport-hd/ch-canal-sport-hd-1288.png" group-title="G", CANAL+ SPORT HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+SPORT+HD&moviescount=0&url=canal-sport-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-sport-hd%2Fch-canal-sport-hd-1288.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="8" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-sport-2/ch-canal-sport-1284.png" group-title="G", CANAL+ SPORT 2 HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+SPORT+2+HD&moviescount=0&url=canal-sport-2&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-sport-2%2Fch-canal-sport-1284.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="9" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-sport-3/ch-canal-sport-309.png" group-title="G", CANAL+ SPORT 3 HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+SPORT+3+HD&moviescount=0&url=canal-sport-3&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-sport-3%2Fch-canal-sport-309.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="10" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-canal-sport-4/ch-canal-sport-304.png" group-title="G", CANAL+ SPORT 4 HD
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+SPORT+4+HD&moviescount=0&url=canal-sport-4&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-canal-sport-4%2Fch-canal-sport-304.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="11" tvg-name="CANAL+ NOW" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-38/ch-1239.png" group-title="G", CANAL+ NOW
+plugin://plugin.video.ncplusgo/?name=CANAL%2B+NOW&moviescount=0&url=38&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-38%2Fch-1239.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="12" tvg-name="nSport+ HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-nsport-hd/ch-nsport-hd-318.png" group-title="G", nSport+ HD
+plugin://plugin.video.ncplusgo/?name=nSport%2B+HD&moviescount=0&url=nsport-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-nsport-hd%2Fch-nsport-hd-318.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="13" tvg-name="ALE KINO+ HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-ale-kino-hd/ch-ale-kino-hd-1303.png" group-title="G", ALE KINO+ HD
+plugin://plugin.video.ncplusgo/?name=ALE+KINO%2B+HD&moviescount=0&url=ale-kino-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-ale-kino-hd%2Fch-ale-kino-hd-1303.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="14" tvg-name="MiniMini+ HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-minimini-hd/ch-minimini-hd-1298.png" group-title="G", MiniMini+ HD
+plugin://plugin.video.ncplusgo/?name=MiniMini%2B+HD&moviescount=0&url=minimini-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-minimini-hd%2Fch-minimini-hd-1298.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="15" tvg-name="teleTOON+ HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-teletoon-hd/ch-teletoon-hd-1309.png" group-title="G", teleTOON+ HD
+plugin://plugin.video.ncplusgo/?name=teleTOON%2B+HD&moviescount=0&url=teletoon-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-teletoon-hd%2Fch-teletoon-hd-1309.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="16" tvg-name="Planete+ HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-planete-hd/ch-planete-hd-273.png" group-title="G", Planete+ HD
+plugin://plugin.video.ncplusgo/?name=Planete%2B+HD&moviescount=0&url=planete-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-planete-hd%2Fch-planete-hd-273.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="17" tvg-name="Kuchnia+ HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-kuchnia-hd/ch-kuchnia-hd-1283.png" group-title="G", Kuchnia+ HD
+plugin://plugin.video.ncplusgo/?name=Kuchnia%2B+HD&moviescount=0&url=kuchnia-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-kuchnia-hd%2Fch-kuchnia-hd-1283.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="18" tvg-name="Domo+ HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-domo-hd/ch-domo-hd-1272.png" group-title="G", Domo+ HD
+plugin://plugin.video.ncplusgo/?name=Domo%2B+HD&moviescount=0&url=domo-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-domo-hd%2Fch-domo-hd-1272.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="19" tvg-name="TVN Style HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-tvn-style-hd/ch-tvn-style-hd-1230.png" group-title="G", TVN Style HD
+plugin://plugin.video.ncplusgo/?name=TVN+Style+HD&moviescount=0&url=tvn-style-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tvn-style-hd%2Fch-tvn-style-hd-1230.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="20" tvg-name="TVN Turbo HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-tvn-turbo-hd/ch-tvn-turbo-hd-1260.png" group-title="G", TVN Turbo HD
+plugin://plugin.video.ncplusgo/?name=TVN+Turbo+HD&moviescount=0&url=tvn-turbo-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tvn-turbo-hd%2Fch-tvn-turbo-hd-1260.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="21" tvg-name="TVN24 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-tvn-24-hd/ch-tvn-24-hd-1248.png" group-title="G", TVN24 HD
+plugin://plugin.video.ncplusgo/?name=TVN24+HD&moviescount=0&url=tvn-24-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tvn-24-hd%2Fch-tvn-24-hd-1248.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="22" tvg-name="TVP INFO" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-tvp-info/ch-tvp-info-1251.png" group-title="G", TVP INFO
+plugin://plugin.video.ncplusgo/?name=TVP+INFO&moviescount=0&url=tvp-info&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tvp-info%2Fch-tvp-info-1251.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="23" tvg-name="Polsat News HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-news-hd/ch-polsat-news-hd-1254.png" group-title="G", Polsat News HD
+plugin://plugin.video.ncplusgo/?name=Polsat+News+HD&moviescount=0&url=polsat-news-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-news-hd%2Fch-polsat-news-hd-1254.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="24" tvg-name="TVN24 BiS HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-tvn-biznes-i-swiat/ch-tvn-biznes-i-swiat-1240.png" group-title="G", TVN24 BiS HD
+plugin://plugin.video.ncplusgo/?name=TVN24+BiS+HD&moviescount=0&url=tvn-biznes-i-swiat&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tvn-biznes-i-swiat%2Fch-tvn-biznes-i-swiat-1240.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="25" tvg-name="HGTV" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-tvn-meteo-active/ch-tvn-meteo-active-1264.png" group-title="G", HGTV
+plugin://plugin.video.ncplusgo/?name=HGTV&moviescount=0&url=tvn-meteo-active&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tvn-meteo-active%2Fch-tvn-meteo-active-1264.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="26" tvg-name="METRO" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-metro-tv/ch-metro-tv-859.png" group-title="G", METRO
+plugin://plugin.video.ncplusgo/?name=METRO&moviescount=0&url=metro-tv&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-metro-tv%2Fch-metro-tv-859.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="27" tvg-name="Superstacja" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-superstacja/ch-superstacja-1240.png" group-title="G", Superstacja
+plugin://plugin.video.ncplusgo/?name=Superstacja&moviescount=0&url=superstacja&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-superstacja%2Fch-superstacja-1240.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="28" tvg-name="FOX HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-fox-hd/ch-fox-hd-1262.png" group-title="G", FOX HD
+plugin://plugin.video.ncplusgo/?name=FOX+HD&moviescount=0&url=fox-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-fox-hd%2Fch-fox-hd-1262.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="29" tvg-name="FOX Comedy HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-fox-comedy-hd/ch-fox-comedy-hd-1267.png" group-title="G", FOX Comedy HD
+plugin://plugin.video.ncplusgo/?name=FOX+Comedy+HD&moviescount=0&url=fox-comedy-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-fox-comedy-hd%2Fch-fox-comedy-hd-1267.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="30" tvg-name="AXN HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-axn-hd/ch-axn-hd-1269.png" group-title="G", AXN HD
+plugin://plugin.video.ncplusgo/?name=AXN+HD&moviescount=0&url=axn-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-axn-hd%2Fch-axn-hd-1269.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="31" tvg-name="AXN Spin HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-axn-spin-hd/ch-axn-spin-hd-1259.png" group-title="G", AXN Spin HD
+plugin://plugin.video.ncplusgo/?name=AXN+Spin+HD&moviescount=0&url=axn-spin-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-axn-spin-hd%2Fch-axn-spin-hd-1259.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="32" tvg-name="AMC" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-mgm-hd/ch-mgm-hd-1272.png" group-title="G", AMC
+plugin://plugin.video.ncplusgo/?name=AMC&moviescount=0&url=mgm-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-mgm-hd%2Fch-mgm-hd-1272.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="33" tvg-name="Romance TV HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-romance-tv-hd/ch-romance-tv-hd-1261.png" group-title="G", Romance TV HD
+plugin://plugin.video.ncplusgo/?name=Romance+TV+HD&moviescount=0&url=romance-tv-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-romance-tv-hd%2Fch-romance-tv-hd-1261.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="34" tvg-name="Comedy Central HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-comedy-central-hd/ch-comedy-central-hd-1244.png" group-title="G", Comedy Central HD
+plugin://plugin.video.ncplusgo/?name=Comedy+Central+HD&moviescount=0&url=comedy-central-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-comedy-central-hd%2Fch-comedy-central-hd-1244.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="35" tvg-name="Paramount Channel HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-paramount-channel-hd/ch-paramount-channel-hd-1274.png" group-title="G", Paramount Channel HD
+plugin://plugin.video.ncplusgo/?name=Paramount+Channel+HD&moviescount=0&url=paramount-channel-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-paramount-channel-hd%2Fch-paramount-channel-hd-1274.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="36" tvg-name="Kino Polska HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-kino-polska/ch-kino-polska-1267.png" group-title="G", Kino Polska HD
+plugin://plugin.video.ncplusgo/?name=Kino+Polska+HD&moviescount=0&url=kino-polska&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-kino-polska%2Fch-kino-polska-1267.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="37" tvg-name="AXN White" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-axn-white/ch-axn-white-1267.png" group-title="G", AXN White
+plugin://plugin.video.ncplusgo/?name=AXN+White&moviescount=0&url=axn-white&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-axn-white%2Fch-axn-white-1267.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="38" tvg-name="AXN Black" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-axn-black/ch-axn-black-1252.png" group-title="G", AXN Black
+plugin://plugin.video.ncplusgo/?name=AXN+Black&moviescount=0&url=axn-black&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-axn-black%2Fch-axn-black-1252.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="39" tvg-name="Kino TV HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-filmbox/ch-filmbox-1279.png" group-title="G", Kino TV HD
+plugin://plugin.video.ncplusgo/?name=Kino+TV+HD&moviescount=0&url=filmbox&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-filmbox%2Fch-filmbox-1279.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="40" tvg-name="Polsat Comedy Central Extra" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-comedy-central-family/ch-comedy-central-family-1259.png" group-title="G", Polsat Comedy Central Extra
+plugin://plugin.video.ncplusgo/?name=Polsat+Comedy+Central+Extra&moviescount=0&url=comedy-central-family&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-comedy-central-family%2Fch-comedy-central-family-1259.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="41" tvg-name="Epic Drama" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-Epic-HD/ch-epic-hd-806.png" group-title="G", Epic Drama
+plugin://plugin.video.ncplusgo/?name=Epic+Drama&moviescount=0&url=Epic-HD&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-Epic-HD%2Fch-epic-hd-806.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="42" tvg-name="BBC First" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-bbc-hd/ch-bbc-hd-1279.png" group-title="G", BBC First
+plugin://plugin.video.ncplusgo/?name=BBC+First&moviescount=0&url=bbc-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-bbc-hd%2Fch-bbc-hd-1279.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="43" tvg-name="TNT HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-TNT/ch-tnt-1267.png" group-title="G", TNT HD
+plugin://plugin.video.ncplusgo/?name=TNT+HD&moviescount=0&url=TNT&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-TNT%2Fch-tnt-1267.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="44" tvg-name="13 Ulica HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-13-ulica/ch-13-ulica-1261.png" group-title="G", 13 Ulica HD
+plugin://plugin.video.ncplusgo/?name=13+Ulica+HD&moviescount=0&url=13-ulica&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-13-ulica%2Fch-13-ulica-1261.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="45" tvg-name="Discovery HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-discovery-channel-hd/ch-discovery-channel-hd-1268.png" group-title="G", Discovery HD
+plugin://plugin.video.ncplusgo/?name=Discovery+HD&moviescount=0&url=discovery-channel-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-discovery-channel-hd%2Fch-discovery-channel-hd-1268.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="46" tvg-name="D. SCIENCE HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-discovery-science/ch-discovery-science-1249.png" group-title="G", D. SCIENCE HD
+plugin://plugin.video.ncplusgo/?name=D.+SCIENCE+HD&moviescount=0&url=discovery-science&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-discovery-science%2Fch-discovery-science-1249.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="47" tvg-name="Animal Planet HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-animal-planet-hd/ch-animal-planet-hd-1266.png" group-title="G", Animal Planet HD
+plugin://plugin.video.ncplusgo/?name=Animal+Planet+HD&moviescount=0&url=animal-planet-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-animal-planet-hd%2Fch-animal-planet-hd-1266.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="48" tvg-name="Discovery Historia" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-discovery-historia/ch-discovery-historia-1254.png" group-title="G", Discovery Historia
+plugin://plugin.video.ncplusgo/?name=Discovery+Historia&moviescount=0&url=discovery-historia&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-discovery-historia%2Fch-discovery-historia-1254.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="49" tvg-name="BBC Earth HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-bbc-earth-hd/ch-bbc-earth-hd-1272.png" group-title="G", BBC Earth HD
+plugin://plugin.video.ncplusgo/?name=BBC+Earth+HD&moviescount=0&url=bbc-earth-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-bbc-earth-hd%2Fch-bbc-earth-hd-1272.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="50" tvg-name="National Geo HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-national-geographic-hd/ch-national-geographic-hd-1257.png" group-title="G", National Geo HD
+plugin://plugin.video.ncplusgo/?name=National+Geo+HD&moviescount=0&url=national-geographic-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-national-geographic-hd%2Fch-national-geographic-hd-1257.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="51" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-nat-geo-wild-hd/ch-nat-geo-wild-hd-1250.png" group-title="G", NATIONAL GEOGRAPHIC WILD HD
+plugin://plugin.video.ncplusgo/?name=NATIONAL+GEOGRAPHIC+WILD+HD&moviescount=0&url=nat-geo-wild-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-nat-geo-wild-hd%2Fch-nat-geo-wild-hd-1250.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="52" tvg-name="Travel Channel HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-travel-channel/ch-travel-channel-1263.png" group-title="G", Travel Channel HD
+plugin://plugin.video.ncplusgo/?name=Travel+Channel+HD&moviescount=0&url=travel-channel&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-travel-channel%2Fch-travel-channel-1263.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="53" tvg-name="FOKUS TV" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-fokus-tv/ch-fokus-tv-1270.png" group-title="G", FOKUS TV
+plugin://plugin.video.ncplusgo/?name=FOKUS+TV&moviescount=0&url=fokus-tv&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-fokus-tv%2Fch-fokus-tv-1270.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="54" tvg-name="Disney Junior" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-disney-junior/ch-disney-junior-1251.png" group-title="G", Disney Junior
+plugin://plugin.video.ncplusgo/?name=Disney+Junior&moviescount=0&url=disney-junior&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-disney-junior%2Fch-disney-junior-1251.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="55" tvg-name="Nick Jr." tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-nick-jr/ch-nick-jr-1254.png" group-title="G", Nick Jr.
+plugin://plugin.video.ncplusgo/?name=Nick+Jr.&moviescount=0&url=nick-jr&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-nick-jr%2Fch-nick-jr-1254.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="56" tvg-name="Cbeebies" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-cbeebies/ch-cbeebies-1241.png" group-title="G", Cbeebies
+plugin://plugin.video.ncplusgo/?name=Cbeebies&moviescount=0&url=cbeebies&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-cbeebies%2Fch-cbeebies-1241.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="57" tvg-name="Polsat JimJam" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-jimjam/ch-polsat-jimjam-1259.png" group-title="G", Polsat JimJam
+plugin://plugin.video.ncplusgo/?name=Polsat+JimJam&moviescount=0&url=polsat-jimjam&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-jimjam%2Fch-polsat-jimjam-1259.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="58" tvg-name="Baby TV" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-baby-tv/ch-baby-tv-1269.png" group-title="G", Baby TV
+plugin://plugin.video.ncplusgo/?name=Baby+TV&moviescount=0&url=baby-tv&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-baby-tv%2Fch-baby-tv-1269.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="59" tvg-name="Disney Channel HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-disney-channel/ch-disney-channel-1277.png" group-title="G", Disney Channel HD
+plugin://plugin.video.ncplusgo/?name=Disney+Channel+HD&moviescount=0&url=disney-channel&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-disney-channel%2Fch-disney-channel-1277.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="60" tvg-name="Disney XD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-disney-xd/ch-disney-xd-1252.png" group-title="G", Disney XD
+plugin://plugin.video.ncplusgo/?name=Disney+XD&moviescount=0&url=disney-xd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-disney-xd%2Fch-disney-xd-1252.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="61" tvg-name="NickToons HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-nickelodeon-hd/ch-nickelodeon-hd-1257.png" group-title="G", NickToons HD
+plugin://plugin.video.ncplusgo/?name=NickToons+HD&moviescount=0&url=nickelodeon-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-nickelodeon-hd%2Fch-nickelodeon-hd-1257.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="62" tvg-name="Nickelodeon" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-nickelodeon/ch-nickelodeon-1253.png" group-title="G", Nickelodeon
+plugin://plugin.video.ncplusgo/?name=Nickelodeon&moviescount=0&url=nickelodeon&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-nickelodeon%2Fch-nickelodeon-1253.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="63" tvg-name="Cartoon Network HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-cartoon-network/ch-cartoon-network-1249.png" group-title="G", Cartoon Network HD
+plugin://plugin.video.ncplusgo/?name=Cartoon+Network+HD&moviescount=0&url=cartoon-network&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-cartoon-network%2Fch-cartoon-network-1249.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="64" tvg-name="Boomerang HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-boomerang/ch-boomerang-1263.png" group-title="G", Boomerang HD
+plugin://plugin.video.ncplusgo/?name=Boomerang+HD&moviescount=0&url=boomerang&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-boomerang%2Fch-boomerang-1263.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="65" tvg-name="EUROSPORT 1 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-eurosport-hd/ch-eurosport-hd-1254.png" group-title="G", EUROSPORT 1 HD
+plugin://plugin.video.ncplusgo/?name=EUROSPORT+1+HD&moviescount=0&url=eurosport-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-eurosport-hd%2Fch-eurosport-hd-1254.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="66" tvg-name="EUROSPORT 2 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-eurosport2-hd/ch-eurosport2-hd-1262.png" group-title="G", EUROSPORT 2 HD
+plugin://plugin.video.ncplusgo/?name=EUROSPORT+2+HD&moviescount=0&url=eurosport2-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-eurosport2-hd%2Fch-eurosport2-hd-1262.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="67" tvg-name="DTX" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-discovery-turbo-xtra-hd/ch-discovery-turbo-xtra-hd-1260.png" group-title="G", DTX
+plugin://plugin.video.ncplusgo/?name=DTX&moviescount=0&url=discovery-turbo-xtra-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-discovery-turbo-xtra-hd%2Fch-discovery-turbo-xtra-hd-1260.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="68" tvg-name="BBC Brit HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-bbc-brit-hd/ch-bbc-brit-hd-1277.png" group-title="G", BBC Brit HD
+plugin://plugin.video.ncplusgo/?name=BBC+Brit+HD&moviescount=0&url=bbc-brit-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-bbc-brit-hd%2Fch-bbc-brit-hd-1277.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="69" tvg-name="Polsat Play HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-play/ch-polsat-play-1261.png" group-title="G", Polsat Play HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Play+HD&moviescount=0&url=polsat-play&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-play%2Fch-polsat-play-1261.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="70" tvg-name="Motowizja HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-motowizja-tv/ch-motowizja-tv-1266.png" group-title="G", Motowizja HD
+plugin://plugin.video.ncplusgo/?name=Motowizja+HD&moviescount=0&url=motowizja-tv&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-motowizja-tv%2Fch-motowizja-tv-1266.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="71" tvg-name="EXTREME SPORTS HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-extreme-sports/ch-extreme-sports-1268.png" group-title="G", EXTREME SPORTS HD
+plugin://plugin.video.ncplusgo/?name=EXTREME+SPORTS+HD&moviescount=0&url=extreme-sports&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-extreme-sports%2Fch-extreme-sports-1268.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="72" tvg-name="Fightklub HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-fightklub-hd/ch-fightklub-hd-1116.png" group-title="G", Fightklub HD
+plugin://plugin.video.ncplusgo/?name=Fightklub+HD&moviescount=0&url=fightklub-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-fightklub-hd%2Fch-fightklub-hd-1116.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="73" tvg-name="Eleven Sports 1 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-eleven-hd/ch-eleven-hd-1270.png" group-title="G", Eleven Sports 1 HD
+plugin://plugin.video.ncplusgo/?name=Eleven+Sports+1+HD&moviescount=0&url=eleven-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-eleven-hd%2Fch-eleven-hd-1270.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="74" tvg-name="Eleven Sports 2 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-eleven-sports-hd/ch-eleven-sports-hd-1266.png" group-title="G", Eleven Sports 2 HD
+plugin://plugin.video.ncplusgo/?name=Eleven+Sports+2+HD&moviescount=0&url=eleven-sports-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-eleven-sports-hd%2Fch-eleven-sports-hd-1266.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="75" tvg-name="Eleven Sports 3 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-eleven-extra-hd/ch-eleven-extra-hd-1110.png" group-title="G", Eleven Sports 3 HD
+plugin://plugin.video.ncplusgo/?name=Eleven+Sports+3+HD&moviescount=0&url=eleven-extra-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-eleven-extra-hd%2Fch-eleven-extra-hd-1110.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="76" tvg-name="Eleven Sports 4 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-eleven-sports-4-hd/ch-eleven-sports-4-hd-829.png" group-title="G", Eleven Sports 4 HD
+plugin://plugin.video.ncplusgo/?name=Eleven+Sports+4+HD&moviescount=0&url=eleven-sports-4-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-eleven-sports-4-hd%2Fch-eleven-sports-4-hd-829.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="77" tvg-name="Polsat Sport Premium 1" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-sport-premium-1/ch-polsat-sport-premium-612.png" group-title="G", Polsat Sport Premium 1
+plugin://plugin.video.ncplusgo/?name=Polsat+Sport+Premium+1&moviescount=0&url=polsat-sport-premium-1&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-sport-premium-1%2Fch-polsat-sport-premium-612.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="78" tvg-name="Polsat Sport Premium 2" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-sport-premium-2/ch-polsat-sport-premium-611.png" group-title="G", Polsat Sport Premium 2
+plugin://plugin.video.ncplusgo/?name=Polsat+Sport+Premium+2&moviescount=0&url=polsat-sport-premium-2&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-sport-premium-2%2Fch-polsat-sport-premium-611.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="79" tvg-name="Polsat Sport Premium PPV3" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-sport-premium-ppv3/ch-polsat-sport-premium-593.png" group-title="G", Polsat Sport Premium PPV3
+plugin://plugin.video.ncplusgo/?name=Polsat+Sport+Premium+PPV3&moviescount=0&url=polsat-sport-premium-ppv3&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-sport-premium-ppv3%2Fch-polsat-sport-premium-593.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="80" tvg-name="Polsat Sport Premium PPV4" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-sport-premium-ppv4/ch-polsat-sport-premium-581.png" group-title="G", Polsat Sport Premium PPV4
+plugin://plugin.video.ncplusgo/?name=Polsat+Sport+Premium+PPV4&moviescount=0&url=polsat-sport-premium-ppv4&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-sport-premium-ppv4%2Fch-polsat-sport-premium-581.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="81" tvg-name="Polsat Sport Premium PPV5" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-sport-premium-ppv5/ch-polsat-sport-premium-590.png" group-title="G", Polsat Sport Premium PPV5
+plugin://plugin.video.ncplusgo/?name=Polsat+Sport+Premium+PPV5&moviescount=0&url=polsat-sport-premium-ppv5&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-sport-premium-ppv5%2Fch-polsat-sport-premium-590.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="82" tvg-name="Polsat Sport Premium PPV6" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-sport-premium-ppv6/ch-polsat-sport-premium-590.png" group-title="G", Polsat Sport Premium PPV6
+plugin://plugin.video.ncplusgo/?name=Polsat+Sport+Premium+PPV6&moviescount=0&url=polsat-sport-premium-ppv6&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-sport-premium-ppv6%2Fch-polsat-sport-premium-590.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="83" tvg-name="BBC Lifestyle HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-bbc-lifestyle/ch-bbc-lifestyle-1250.jpg" group-title="G", BBC Lifestyle HD
+plugin://plugin.video.ncplusgo/?name=BBC+Lifestyle+HD&moviescount=0&url=bbc-lifestyle&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-bbc-lifestyle%2Fch-bbc-lifestyle-1250.jpg&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="84" tvg-name="Polsat Cafe HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-polsat-cafe/ch-polsat-cafe-1265.png" group-title="G", Polsat Cafe HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Cafe+HD&moviescount=0&url=polsat-cafe&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-polsat-cafe%2Fch-polsat-cafe-1265.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="85" tvg-name="TLC HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-tlc-hd/ch-tlc-hd-1253.png" group-title="G", TLC HD
+plugin://plugin.video.ncplusgo/?name=TLC+HD&moviescount=0&url=tlc-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tlc-hd%2Fch-tlc-hd-1253.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="86" tvg-name="Discovery Life HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-discovery-life/ch-discovery-life-1266.png" group-title="G", Discovery Life HD
+plugin://plugin.video.ncplusgo/?name=Discovery+Life+HD&moviescount=0&url=discovery-life&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-discovery-life%2Fch-discovery-life-1266.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="87" tvg-name="ID HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-id-hd/ch-id-hd-1260.png" group-title="G", ID HD
+plugin://plugin.video.ncplusgo/?name=ID+HD&moviescount=0&url=id-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-id-hd%2Fch-id-hd-1260.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="88" tvg-name="Lifetime HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-lifetime-hd/ch-lifetime-hd-1258.png" group-title="G", Lifetime HD
+plugin://plugin.video.ncplusgo/?name=Lifetime+HD&moviescount=0&url=lifetime-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-lifetime-hd%2Fch-lifetime-hd-1258.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="89" tvg-name="Crime+Investigation Polsat HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-ci-polsat/ch-ci-polsat-1252.png" group-title="G", Crime+Investigation Polsat HD
+plugin://plugin.video.ncplusgo/?name=Crime%2BInvestigation+Polsat+HD&moviescount=0&url=ci-polsat&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-ci-polsat%2Fch-ci-polsat-1252.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="90" tvg-name="MTV Polska HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-mtv-polska/ch-mtv-polska-1259.png" group-title="G", MTV Polska HD
+plugin://plugin.video.ncplusgo/?name=MTV+Polska+HD&moviescount=0&url=mtv-polska&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-mtv-polska%2Fch-mtv-polska-1259.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="91" tvg-name="Nat Geo People HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-nat-geo-people-hd/ch-nat-geo-people-hd-1266.png" group-title="G", Nat Geo People HD
+plugin://plugin.video.ncplusgo/?name=Nat+Geo+People+HD&moviescount=0&url=nat-geo-people-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-nat-geo-people-hd%2Fch-nat-geo-people-hd-1266.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="92" tvg-name="E!Entertainment HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-e-entertainment/ch-e-entertainment-1248.png" group-title="G", E!Entertainment HD
+plugin://plugin.video.ncplusgo/?name=E%21Entertainment+HD&moviescount=0&url=e-entertainment&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-e-entertainment%2Fch-e-entertainment-1248.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="93" tvg-name="Nowa TV" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-nowa-tv/ch-nowa-tv-1059.png" group-title="G", Nowa TV
+plugin://plugin.video.ncplusgo/?name=Nowa+TV&moviescount=0&url=nowa-tv&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-nowa-tv%2Fch-nowa-tv-1059.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="94" tvg-name="MTV Music Polska" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-viva-polska/ch-viva-polska-1248.png" group-title="G", MTV Music Polska
+plugin://plugin.video.ncplusgo/?name=MTV+Music+Polska&moviescount=0&url=viva-polska&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-viva-polska%2Fch-viva-polska-1248.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="95" tvg-name="MTV Live HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-mtv-live-hd/ch-mtv-live-hd-1261.png" group-title="G", MTV Live HD
+plugin://plugin.video.ncplusgo/?name=MTV+Live+HD&moviescount=0&url=mtv-live-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-mtv-live-hd%2Fch-mtv-live-hd-1261.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="96" tvg-name="ESKA TV" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-8tv/ch-8tv-1091.png" group-title="G", ESKA TV
+plugin://plugin.video.ncplusgo/?name=ESKA+TV&moviescount=0&url=8tv&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-8tv%2Fch-8tv-1091.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="97" tvg-name="VOX MUSIC TV" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-vox-music-tv/ch-vox-music-tv-1252.png" group-title="G", VOX MUSIC TV
+plugin://plugin.video.ncplusgo/?name=VOX+MUSIC+TV&moviescount=0&url=vox-music-tv&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-vox-music-tv%2Fch-vox-music-tv-1252.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="98" tvg-name="Kino Polska Muzyka" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-kino-polska-muzyka/ch-kino-polska-muzyka-1258.png" group-title="G", Kino Polska Muzyka
+plugin://plugin.video.ncplusgo/?name=Kino+Polska+Muzyka&moviescount=0&url=kino-polska-muzyka&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-kino-polska-muzyka%2Fch-kino-polska-muzyka-1258.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="99" tvg-name="Power TV" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-power-tv-1/ch-power-tv-1270.png" group-title="G", Power TV
+plugin://plugin.video.ncplusgo/?name=Power+TV&moviescount=0&url=power-tv-1&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-power-tv-1%2Fch-power-tv-1270.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="100" tvg-name="Disco Polo Music" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-disco-polo-music/ch-disco-polo-music-1253.png" group-title="G", Disco Polo Music
+plugin://plugin.video.ncplusgo/?name=Disco+Polo+Music&moviescount=0&url=disco-polo-music&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-disco-polo-music%2Fch-disco-polo-music-1253.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="101" tvg-name="ESKA TV EXTRA" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-eska-tv/ch-eska-tv-1266.png" group-title="G", ESKA TV EXTRA
+plugin://plugin.video.ncplusgo/?name=ESKA+TV+EXTRA&moviescount=0&url=eska-tv&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-eska-tv%2Fch-eska-tv-1266.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="102" tvg-name="WP" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-wp/ch-wp-944.png" group-title="G", WP
+plugin://plugin.video.ncplusgo/?name=WP&moviescount=0&url=wp&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-wp%2Fch-wp-944.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="103" tvg-name="Polsat Viasat History HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-viasat-history-hd/ch-viasat-history-hd-1157.png" group-title="G", Polsat Viasat History HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Viasat+History+HD&moviescount=0&url=viasat-history-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-viasat-history-hd%2Fch-viasat-history-hd-1157.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="104" tvg-name="Polsat Viasat Nature HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-viasat-nature/ch-viasat-nature-1171.png" group-title="G", Polsat Viasat Nature HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Viasat+Nature+HD&moviescount=0&url=viasat-nature&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-viasat-nature%2Fch-viasat-nature-1171.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="105" tvg-name="Polsat Viasat Explore HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-viasat-explore-hd/ch-viasat-explore-hd-1178.png" group-title="G", Polsat Viasat Explore HD
+plugin://plugin.video.ncplusgo/?name=Polsat+Viasat+Explore+HD&moviescount=0&url=viasat-explore-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-viasat-explore-hd%2Fch-viasat-explore-hd-1178.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="106" tvg-name="Stopklatka TV" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-stopklatka-tv/ch-stopklatka-tv-1255.png" group-title="G", Stopklatka TV
+plugin://plugin.video.ncplusgo/?name=Stopklatka+TV&moviescount=0&url=stopklatka-tv&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-stopklatka-tv%2Fch-stopklatka-tv-1255.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="107" tvg-name="Sci fi HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-sci-fi/ch-sci-fi-1262.png" group-title="G", Sci fi HD
+plugin://plugin.video.ncplusgo/?name=Sci+fi+HD&moviescount=0&url=sci-fi&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-sci-fi%2Fch-sci-fi-1262.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="108" tvg-name="TV Republika" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-tv-republika/ch-tv-republika-1235.png" group-title="G", TV Republika
+plugin://plugin.video.ncplusgo/?name=TV+Republika&moviescount=0&url=tv-republika&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-tv-republika%2Fch-tv-republika-1235.png&mode=playNC&page=1
+
+#EXTINF:0, tvg-id="109" tvg-name="BIZNES24 HD" tvg-logo="https://ncplusgo.img.rd.insyscd.net/ch-biznes24-hd/ch-biznes24-hd-73.png" group-title="G", BIZNES24 HD
+plugin://plugin.video.ncplusgo/?name=BIZNES24+HD&moviescount=0&url=biznes24-hd&movie=True&image=https%3A%2F%2Fncplusgo.img.rd.insyscd.net%2Fch-biznes24-hd%2Fch-biznes24-hd-73.png&mode=playNC&page=1
+
